@@ -1,0 +1,25 @@
+{
+  "name": "employee-tracker-cms",
+  "version": "1.0.0",
+  "description": "View and manage organization's departments and employees",
+  "main": "server.js",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kellymedia/employee-tracker-cms.git"
+  },
+  "author": "Michael Kelly",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kellymedia/employee-tracker-cms/issues"
+  },
+  "homepage": "https://github.com/kellymedia/employee-tracker-cms#readme"
+}
