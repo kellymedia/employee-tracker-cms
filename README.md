@@ -1,8 +1,26 @@
 # Employee Tracker CMS
 
+## Description 
+
+This command-line application is a **C**ontent **M**anagement **S**ystem for tracking employees and department structures within an organization. 
+
+## User Story
+
+```
+As a user,
+I want to be able to 
+- add departments, roles, employees
+- view departments, roles, employees
+- update employee roles
+So that I can effectively manage an organization and track productivity and accountability.
+```
+
 ## Tech Used
-- [Node.js
-- [MaterializeCSS]()
+- Node.js
+- JavaScript
+- npm packages
+  - MySQL
+  - Inquirer 
 
 
 ## License 
@@ -11,7 +29,7 @@
 
 The MIT License (MIT)
 
-Copyright (c) 2020 Rebecca Capirchio, Carolene Wilson-Grizzle, Sangeeta, Thapa, Michael Kelly
+Copyright (c) 2020 Michael Kelly
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
