@@ -4,7 +4,7 @@
 
 This command-line application is a **C**ontent **M**anagement **S**ystem for tracking employees and department structures within an organization. 
 
-![demo gif](./assets/employee-tracker-cms.gif)
+[![demo gif](./assets/employee-tracker-cms.gif)](https://drive.google.com/file/d/1W37tKLsl5H8RJwwIE8igTTBHwU05_3Ir/view?usp=sharing)
 
 ## User Story
 
