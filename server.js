@@ -279,7 +279,7 @@ const updateEmployeeRole = () => {
                     `UPDATE employee_trackerDB.employee SET role_id = ${currentRole} WHERE first_name= '${name[0]}' AND last_name= '${name[1]}';`,
                     (err, res) => {
                       if (err) throw err;
-                      console.log(`You have successfully upated the role.`);
+                      console.log(`You have successfully updated the role.`);
                       runQuery();
                     }
                   );
